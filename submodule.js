@@ -3,5 +3,5 @@ export function greeting(name) {
 }
 
 export function farewell(name) {
-  console.log(`Godbye ${name}`);
+  console.log(`Goodbye ${name}`);
 }
